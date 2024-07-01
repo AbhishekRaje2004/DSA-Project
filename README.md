@@ -2,11 +2,6 @@
 
 Welcome to the Cab Booking System project! This repository contains code and documentation for a cab booking system that employs a graph data structure and Dijkstra's algorithm for efficient routing. User data is stored in a database to facilitate booking and tracking.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Graph Data Structure](#graph-data-structure)
-4. [Dijkstra's Algorithm](#dijkstras-algorithm)
 
 ## Introduction
 The Cab Booking System is designed to efficiently manage cab bookings, optimize routes using a graph data structure, and provide a seamless experience for both users and drivers. Dijkstra's algorithm is employed to find the shortest path between locations, ensuring prompt and optimal cab allocation.
